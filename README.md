@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osayiosas
+- 👋 Hi, I’m Idiaghe Osaigbovo. E
 - 👀 I’m interested in ...web and mobile Development 
 - 🌱 I’m currently learning ...Reactjs
 - 💞️ I’m looking to collaborate on ...Reactjs
